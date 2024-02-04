@@ -1,16 +1,14 @@
-### Hi there 👋
+> Temperatures reach record highs every year, and so does extreme weather. Half of the world lives in poverty while one-tenth suffer from chronic hunger. Virtually no time in history have humans been free of war, and today is no different.
+> 
+> Despite what they say, AI can't really solve any of these problems. But hey, take a look at my projects!
 
-<!--
-**AndyyyYuuu/AndyyyYuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AndyyyYuuu
+**High school student by day, asleep by 11:00pm.**
 
-Here are some ideas to get you started:
+- :snake: Languages: `.py`, `.js`, `.java`, `mandarin`. 
+- :framed_picture: Frameworks: `torch`, `swiftui`, `yeah`, `that's about it`.
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
