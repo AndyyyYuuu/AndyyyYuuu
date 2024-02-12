@@ -1,6 +1,5 @@
 <h1 align="center">Hi coders, I'm Andy!</h1>
 <h3 align="center">A high school student screwing with machine learning since 2023</h3>
-<br>
 
 - :brain: **Currently Learning**: `ML basics` `PyTorch`
 
