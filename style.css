@@ -1,0 +1,15 @@
+@font-face{
+	font-family: title-display;
+	src: url(assets/font/AbrilFatface-Regular.ttf);	
+}
+
+#project{
+	
+}
+
+.display-text{
+	color: #8d1414;
+	font-size: 10vh;
+	font-weight: bold;
+	font-family: title-display;
+}
