@@ -8,19 +8,21 @@
 - :space_invader: **Game Dev Stack**: `Sublime Text` `.html` `.js` `<canvas>`
 - :saxophone: **Fav Jazz Saxophonist**: `Paul Desmond`
 
-
+<!--
 ## :bar_chart: Contribution Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyyyYuuu&theme=aura_dark)
+-->
 
 ## :snake: Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,js,css,java,processing,swift)](https://skillicons.dev)  
-Ever since my parents signed me up for a Python course in 2020, I've explored its libraries, taught myself the web languages, and started a [<span>game dev team</span>](blue-square.itch.io). My most recent shenanigans involve machine learning with PyTorch. 
+Ever since my parents signed me up for a Python course in 2020, I've explored its libraries, taught myself the web languages, and started a game dev team on itch.io. My most recent shenanigans involve machine learning with PyTorch. 
 
 ---
 
 ## :earth_americas: Find Me Elsewhere
 - :pencil: [Medium](https://medium.com/@andyyy.yuuu): I write articles on my projects here!
 - :link: [LinkedIn](https://www.linkedin.com/in/andyyy-yuuu/): For if you want to hire me after I graduate!
+- :blue_square: [Itch.io](https://blue-square.itch.io): My game dev team! Check it out!
 
   
 <!--
