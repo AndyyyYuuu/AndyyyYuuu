@@ -1,12 +1,14 @@
 <h1 align="center">Hi coders, I'm Andy!</h1>
 <h3 align="center">A high school student screwing with machine learning since 2023</h3>
 
-- :brain: **Currently Learning**: `ML basics` `PyTorch`
+- :nerd_face: **Familiar With**: `ML Basics` `PyTorch` `LSTMs`
+- :brain: **Currently Learning**: `MIDI applications` `Encoder-decoder` `Transformers`
+- :dart: **Want To Look Into**: `Audio applications` `Diffusion models?`
+<br>
 
-- :rocket: **Want To Look Into**: `Sequential models` `Music/audio applications`
 - :hammer_and_wrench: **ML Stack**: `PyCharm` `.py` `torch` `tqdm` `wandb`
 - :space_invader: **Game Dev Stack**: `Sublime Text` `.html` `.js` `<canvas>`
-- :saxophone: **Fav Jazz Saxophonist**: `Paul Desmond`
+- :saxophone: **Fav Jazz Saxophonist**: `Phil Woods` or maybe `Stan Getz`
 
 <!--
 ## :bar_chart: Contribution Stats
@@ -21,7 +23,7 @@ Ever since my parents signed me up for a Python course in 2020, I've explored it
 
 ## :earth_americas: Find Me Elsewhere
 - :pencil: [Medium](https://medium.com/@andyyy.yuuu): I write articles on my projects here!
-- :link: [LinkedIn](https://www.linkedin.com/in/andyyy-yuuu/): For if you want to hire me after I graduate!
+- :link: [LinkedIn](https://www.linkedin.com/in/andyyy-yuuu/): Hire me to label training data? 
 - :blue_square: [Itch.io](https://blue-square.itch.io): My game dev team! Check it out!
 
   
