@@ -3,59 +3,82 @@
 	src: url(assets/font/JosefinSans.ttf);	
 }
 
+
 body{
+	
 	background-color: #100505;
 	color: white;
 	font-family: display;
+	height: 500rem;
 }
 
 .project{
 	
 }
 
+#top-bar{
+	top: 0;
+	position: fixed;
+	margin: 0;
+	padding: 0;
+	height: 10rem;
+	width: 100vw;
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+}
+
 #main-title{
+	top: 0; 
 	position: sticky;
-	top: 20px;
-	font-size: 80px;
+
+    text-align: center;
+	font-weight: bold;
+	font-family: display;
+	margin-top: 30vh;
+	font-size: 5rem;
 	background-image: linear-gradient(15deg, rgb(255, 100, 50), rgb(200, 50, 150));
 	color: transparent;
+	
 	background-clip: text;
     -webkit-background-clip: text;
-    /*
+    
     padding: 20px 0;
-    transition: all 0.3s ease;*/
+    transition: all 0.3s ease;
+    height: 5rem;
 }
-/*
-header.fixed-title #main-title{
-	position: fixed;
-    font-size: 1.5rem;
+
+#main-title.fixed-title{
+	top: 0; 
+	position: sticky;
+    font-size: 2rem;
+    height: 5rem;
     transition: all 0.3s ease;
     left: 0;
     right: 0;
-    margin-top: -30vh;
-}*/
-/*
-#placeholder {
-	font-size: 100px;
-    display: none;
-    margin: 0;
-}*/
+}
+
+#main-title.fixed-title #main-title-text{
+	display: inline-block;
+	padding: 0.5rem;
+	font-size: 2rem;
+	transition: all 0.3s ease;
+}
+
+#main-title.fixed-title #main-title-text:hover{
+	cursor: pointer;
+	font-size: 2.3rem;
+	transition: all 0.3s ease;
+}
 
 #sub-title{
+    text-align: center;
+	font-weight: bold;
+	font-family: display;
+
 	font-size: 60px;
 	background-image: linear-gradient(0deg, rgb(150, 50, 100), rgb(50, 25, 25));
 	color: transparent;
 	background-clip: text;
     -webkit-background-clip: text;
-}
-
-#title-page{
-	margin-top: 30vh;
-    text-align: center;
-	
-	font-weight: bold;
-	font-family: display;
-
 }
 
 .bio-page {
