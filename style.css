@@ -1,29 +1,43 @@
 @font-face{
-	font-family: display;
+	font-family: display-font;
 	src: url(assets/font/JosefinSans.ttf);	
 }
 
 
+@font-face{
+	font-family: body-font;
+	src: url(assets/font/OpenSans.ttf);	
+}
+
+h1{
+	font-weight: medium;
+	font-family: display-font;
+}
+
+.normal-text{
+	font-size: 1rem;
+	line-height: 1.6;
+	color: white;
+	font-family: body-font;
+}
+
 body{
-	
 	background-color: #100505;
 	color: white;
-	font-family: display;
+	font-family: body-font;
 	height: 500rem;
 }
 
-.project{
-	
-}
 
 #top-bar{
 	top: 0;
+	left: 0;
 	position: fixed;
 	margin: 0;
 	padding: 0;
 	height: 10rem;
 	width: 100vw;
-	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
 }
 
 #main-title{
@@ -32,10 +46,10 @@ body{
 
     text-align: center;
 	font-weight: bold;
-	font-family: display;
+	font-family: display-font;
 	margin-top: 30vh;
 	font-size: 5rem;
-	background-image: linear-gradient(15deg, rgb(255, 100, 50), rgb(200, 50, 150));
+	background-image: linear-gradient(15deg, rgb(255, 150, 50), rgb(255, 50, 150));
 	color: transparent;
 	
 	background-clip: text;
@@ -72,17 +86,17 @@ body{
 #sub-title{
     text-align: center;
 	font-weight: bold;
-	font-family: display;
+	font-family: display-font;
 
 	font-size: 60px;
-	background-image: linear-gradient(0deg, rgb(150, 50, 100), rgb(50, 25, 25));
+	background-image: linear-gradient(0deg, rgb(175, 50, 100), rgb(75, 25, 50));
 	color: transparent;
 	background-clip: text;
     -webkit-background-clip: text;
 }
 
 .bio-page {
-	display:inline-block;
+	margin-top: 10rem;
 	width: 100%;
 }
 
@@ -95,7 +109,10 @@ body{
     float: left;
 }
 .bio-text {
-	padding: 50px;
+	padding: 0;
 	color: white;
-    margin-left: calc(50vw + 30px);
+    margin-left: calc(50vw);
+    width: 24rem;
 }
+
+
