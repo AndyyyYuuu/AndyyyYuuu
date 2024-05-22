@@ -12,6 +12,12 @@
 h1{
 	font-weight: medium;
 	font-family: display-font;
+	text-align: center;
+}
+
+h2{
+	font-weight: medium;
+	font-family: display-font;
 }
 
 .normal-text{
@@ -90,25 +96,30 @@ body{
 
 	font-size: 60px;
 	background-image: linear-gradient(0deg, rgb(175, 50, 100), rgb(75, 25, 50));
+	background-position: center;
+	background-size: cover;
 	color: transparent;
 	background-clip: text;
     -webkit-background-clip: text;
 }
 
-.bio-page {
+#bio-page {
 	margin-top: 10rem;
 	width: 100%;
 }
 
-.bio-image {
-	text-align: right;
-    flex: 1;
+#bio-left {
+	flex: 1;
+	float: left;
     padding: 50px;
     box-sizing: border-box;
-    width: calc(50vw - 30px); 
-    float: left;
+    width: 50vw; 
 }
-.bio-text {
+#bio-image {
+	width: 24rem;
+	float: right;
+}
+#bio-text {
 	padding: 0;
 	color: white;
     margin-left: calc(50vw);
