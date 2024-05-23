@@ -5,7 +5,6 @@ function titleIsStuck(){
 
 window.addEventListener('scroll', function() {
     const title = document.getElementById('main-title');
-    console.log(titleIsStuck());
     if (titleIsStuck()) {
         title.classList.add('fixed-title');
     } else {

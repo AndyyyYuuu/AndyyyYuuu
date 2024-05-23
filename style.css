@@ -12,7 +12,6 @@
 h1{
 	font-weight: medium;
 	font-family: display-font;
-	text-align: center;
 }
 
 h2{
@@ -83,13 +82,13 @@ body{
 	transition: all 0.3s ease;
 }
 
-#main-title.fixed-title #main-title-text:hover{
+#main-title.fixed-title #main-title-text:hover {
 	cursor: pointer;
 	font-size: 2.3rem;
 	transition: all 0.3s ease;
 }
 
-#sub-title{
+#sub-title {
     text-align: center;
 	font-weight: bold;
 	font-family: display-font;
@@ -101,6 +100,15 @@ body{
 	color: transparent;
 	background-clip: text;
     -webkit-background-clip: text;
+}
+
+.social-icon {
+	transition: all 0.3s ease;
+}
+
+.social-icon:hover {
+	transform: scale(1.2);
+	transition: all 0.3s ease;
 }
 
 #bio-page {
@@ -126,4 +134,18 @@ body{
     width: 24rem;
 }
 
+#skills-page {
+	padding: 10rem;
+}
+
+.skill-text {
+	font-family: display-font;
+	font-weight: 600;
+	dominant-baseline: middle;
+	text-anchor: middle;
+}
+
+.skill-text:hover {
+	cursor: default;
+}
 
