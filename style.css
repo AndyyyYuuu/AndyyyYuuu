@@ -22,7 +22,7 @@ h2{
 .normal-text{
 	font-size: 1rem;
 	line-height: 1.6;
-	color: white;
+	color: #dddddd;
 	font-family: body-font;
 }
 
@@ -136,6 +136,11 @@ body{
 
 #skills-page {
 	padding: 10rem;
+}
+
+#skills-svg {
+	display: block;
+	margin: auto;
 }
 
 .skill-text {
