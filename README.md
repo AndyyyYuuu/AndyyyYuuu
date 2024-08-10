@@ -1,14 +1,14 @@
 <h1 align="center">Hi coders, I'm Andy!</h1>
 <h3 align="center">A high school student screwing with machine learning since 2023</h3>
 
-- :nerd_face: **Familiar With**: `ML Basics` `PyTorch` `LSTMs`
-- :brain: **Currently Learning**: `MIDI applications` `Encoder-decoder` `Transformers`
-- :dart: **Want To Look Into**: `Audio applications` `Diffusion models?`
+- :nerd_face: **Familiar With**: `ML Basics` `PyTorch` `LSTMs` `GPTs` `MIDI applications`
+- :brain: **Currently Learning**: `<svg>` `LLM Fine-Tuning` `LLM Pruning` 
+- :dart: **Want To Look Into**: `Wave audio` `Agents` `Diffusion?`
 <br>
 
 - :hammer_and_wrench: **ML Stack**: `PyCharm` `.py` `torch` `tqdm` `wandb`
 - :space_invader: **Game Dev Stack**: `Sublime Text` `.html` `.js` `<canvas>`
-- :saxophone: **Fav Jazz Saxophonist**: `Phil Woods` or maybe `Stan Getz`
+- :saxophone: **Fav Jazz Saxophonist**: `Lee Konitz`
 
 <!--
 ## :bar_chart: Contribution Stats
