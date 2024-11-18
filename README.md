@@ -2,18 +2,13 @@
 <h3 align="center">A high school student screwing with machine learning since 2023</h3>
 
 - :nerd_face: **Familiar With**: `ML Basics` `PyTorch` `LSTMs` `GPTs` `MIDI applications`
-- :brain: **Currently Learning**: `<svg>` `LLM Fine-Tuning` `LLM Pruning` 
-- :dart: **Want To Look Into**: `Wave audio` `Agents` `Diffusion?`
+- :brain: **Currently Learning**: `KV Caching` `Information Theory`
+- :dart: **Future Ideas**: `Wave audio` `Agents` `Diffusion?`
 <br>
 
 - :hammer_and_wrench: **ML Stack**: `PyCharm` `.py` `torch` `tqdm` `wandb`
 - :space_invader: **Game Dev Stack**: `Sublime Text` `.html` `.js` `<canvas>`
-- :saxophone: **Fav Jazz Saxophonist**: `Lee Konitz`
-
-<!--
-## :bar_chart: Contribution Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyyyYuuu&theme=aura_dark)
--->
+- :trumpet: **Fav Jazz Musician**: `Donald Byrd`
 
 ## :snake: Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,js,css,java,processing,swift)](https://skillicons.dev)  
@@ -26,23 +21,5 @@ Ever since my parents signed me up for a Python course in 2020, I've explored it
 - :link: [LinkedIn](https://www.linkedin.com/in/andyyy-yuuu/): Hire me to label training data? 
 - :blue_square: [Itch.io](https://blue-square.itch.io): My game dev team! Check it out!
 
-  
-<!--
-## :canoe: My Journey
-**2018** - Got a bit of exposure to **C++** during my time in Beijing.  
-**2020** - Parents signed me up for an online **Python** course.  
-**2021** - Built console-based games in **Python**. Explored Python graphics libraries.  
-**2022** - Made apps with **SwiftUI**. Taught myself **HTML** and **JavaScript**. Co-founded [BlueSquareDuo](blue-square.itch.io) building games on itch.io.  
-**2023** - Developed more games with **JavaScript**. Transitioned to **PyTorch** machine learning.  
-**2024** - Still working on machine learning; we'll see what's next.  -->
-<!--
-## :classical_building: Projects
-**Neural Network From Scratch** ([link](https://github.com/AndyyyYuuu/nn-from-scratch))  
-&emsp;&emsp;An autograd engine from scratch, no PyTorch, no Numpy, just vanilla Python.
-
-**BlueSquareDuo** ([link](blue-square.itch.io))  
-&emsp;&emsp;A game dev team in collaboration with [@realBarry123](https://github.com/realBarry123).  
-&emsp;&emsp;We have 5 games, with one more, [Space Frog Invasion](https://github.com/AndyyyYuuu/space-frog-invasion), coming soon! 
--->
 
 
