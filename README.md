@@ -8,7 +8,7 @@
 
 - :hammer_and_wrench: **ML Stack**: `PyCharm` `.py` `torch` `tqdm` `wandb`
 - :space_invader: **Game Dev Stack**: `Sublime Text` `.html` `.js` `<canvas>`
-- :trumpet: **Fav Jazz Musician**: `Donald Byrd`
+- :trumpet: **Fav Jazz Musician**: `Lee Morgan`
 
 ## :snake: Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,js,css,java,processing,swift)](https://skillicons.dev)  
