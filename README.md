@@ -8,11 +8,10 @@
 
 - :hammer_and_wrench: **ML Stack**: `PyCharm` `.py` `torch` `tqdm` `wandb`
 - :space_invader: **Game Dev Stack**: `Sublime Text` `.html` `.js` `<canvas>`
-- :trumpet: **Fav Jazz Musician**: `Lee Morgan`
-
-## :snake: Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,js,css,java,processing,swift)](https://skillicons.dev)  
-Ever since my parents signed me up for a Python course in 2020, I've explored its libraries, taught myself the web languages, and started a game dev team on itch.io. My most recent shenanigans involve machine learning with PyTorch. 
+- :trumpet: **Fav Jazz Musician**: `Freddie Hubbard`
+---
+### Things I know how to use: 
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,js,css,java,processing)](https://skillicons.dev)  
 
 ---
 
