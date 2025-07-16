@@ -21,8 +21,8 @@
 </div>-->
 
 - :nerd_face: **Familiar With**: `PyTorch`&nbsp; `RNNs`&nbsp; `MIDI applications`&nbsp; `Transformers`
-- :brain: **Currently Learning**: `Activation steering`&nbsp; `Wave audio`
-- :dart: **Future Ideas**: `Grammars`&nbsp; `Benchmarks`
+- :brain: **Currently Reading**: `Mechanistic interpretability`
+- :dart: **Future Ideas**: `Constrained decoding`&nbsp; `Associative memory?`
 - :goat: **Fav Jazz Musician**: `Wayne Shorter`
 
 <!--
