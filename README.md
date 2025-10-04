@@ -14,10 +14,10 @@
 ---
 
 🤓 I'm familiar with **`PyTorch`&nbsp; `RNNs`&nbsp; `MIDI applications`&nbsp; `Transformers`** <br>
-🧠 Currently looking into **`Reinforcement learning`**&nbsp; **`PEFT`** <br>
+🧠 Currently looking into **`Interpretability`**<br>
 🎯 I might explore **`Constrained decoding`&nbsp; `Mechanistic interpretability`** <br>
 
-🎷 At the moment, I'm digging the music of **`Wayne Shorter`** and his album **`The Soothsayer`**
+🎷 At the moment, I'm digging the music of **`Wayne Shorter`** and his album **`The All-Seeing Eye`**
 
 ---
 
