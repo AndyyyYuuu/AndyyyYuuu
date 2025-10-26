@@ -1,3 +1,4 @@
+
 @font-face{
 	font-family: display-font;
 	src: url(assets/font/JosefinSans.ttf);	
@@ -31,6 +32,12 @@ body{
 	color: white;
 	font-family: body-font;
 	height: 500rem;
+}
+
+section{
+	height: 100vh;
+	//margin-top: 10rem;
+	overflow: hidden;
 }
 
 
@@ -102,6 +109,11 @@ body{
     -webkit-background-clip: text;
 }
 
+#title-page{
+	margin-bottom: 12rem;
+
+}
+
 .social-icon {
 	transition: all 0.3s ease;
 }
@@ -112,7 +124,7 @@ body{
 }
 
 #bio-page {
-	margin-top: 10rem;
+	/*margin-top: 10rem;*/
 	width: 100%;
 }
 
@@ -133,10 +145,10 @@ body{
     margin-left: calc(50vw);
     width: 24rem;
 }
-
+/*
 #skills-page {
 	padding: 10rem;
-}
+}*/
 
 #skills-svg {
 	display: block;
