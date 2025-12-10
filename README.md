@@ -14,10 +14,10 @@
 ---
 
 🤓 I'm familiar with **`PyTorch`&nbsp; `RNNs`&nbsp; `MIDI applications`&nbsp; `Transformers`** <br>
-🧠 Currently looking into **`Interpretability`**<br>
-🎯 I might explore **`Constrained decoding`&nbsp; `Mechanistic interpretability`** <br>
+🧠 Currently looking into **`Mechanistic interpretability` `Retrieval`**<br>
+🎯 I might explore **`Constrained decoding`&nbsp; `Test-time adaptation`** <br>
 
-🎷 At the moment, I'm digging the music of **`Wayne Shorter`** and his album **`The All-Seeing Eye`**
+🎺 At the moment, I'm digging the music of **`Lee Morgan`** and his album **`The Procrastinator `**
 
 ---
 
