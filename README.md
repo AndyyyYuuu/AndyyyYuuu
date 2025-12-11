@@ -28,42 +28,11 @@
   [![](https://img.shields.io/badge/Location-Waterloo%20ON,%20Canada-purple)](https://www.cbc.ca/news/canada/kitchener-waterloo/aggressive-canada-geese-waterloo-tiktok-videos-chasing-students-1.7506039) 
   [![](https://img.shields.io/badge/Education-1st--Year_Computer_Science_@_UWaterloo-olive)](https://cs.uwaterloo.ca/)
   <br>
-  [![](https://img.shields.io/badge/Email-andy.of.yu@gmail.com-red)](mailto:andy.of.yu+github@gmail.com) 
+  [![](https://img.shields.io/badge/Email-andy.s.yu@proton.me-red)](mailto:andy.s.yu+github@proton.me) 
   [![](https://img.shields.io/badge/LinkedIn-andyyy--yuuu-blue)](https://www.linkedin.com/in/andyyy-yuuu/) 
   [![](https://img.shields.io/badge/Medium-@andyyy.yuuu-black)](https://medium.com/@andyyy.yuuu) 
   
   
 </div>
-<!--
-**Familiar With**: `PyTorch`&nbsp; `RNNs`&nbsp; `MIDI applications`&nbsp; `Transformers`<br>
-**Learning**: `Reinforcement learning`<br>
-**Future Ideas**: `Constrained decoding`&nbsp; `Mechanistic interpretability`<br>
-**Fav Jazz Musician**: `Wayne Shorter`
--->
-
-
-
-<!--
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:andy.of.yu+github@gmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/andyyy-yuuu/) 
-  [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@andyyy.yuuu)
-  
-</div>-->
-
-
-<!--
-### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,js,java,processing,latex)](https://skillicons.dev)  
-
-**Find Me Elsewhere**: 
-
-- :pencil: [Medium](https://medium.com/@andyyy.yuuu): I write articles on my projects here!
-- :link: [LinkedIn](https://www.linkedin.com/in/andyyy-yuuu/): Hire me to label training data?
-
-- :blue_square: [Itch.io](https://blue-square.itch.io): My game dev team! Check it out!
-
---> 
 
 
