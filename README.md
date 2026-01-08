@@ -1,4 +1,4 @@
-<h2 align="center">My name is Andy Yu, <br> and I think machine learning is a pretty neat idea. </h2>
+<h2 align="center">My name is Andy Yu, <br> and I think pre-training was a pretty neat idea. </h2>
 
 
 <div align="center">
