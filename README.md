@@ -17,7 +17,7 @@
 🧠 Currently looking into **`Mechanistic interpretability` `Retrieval`**<br>
 🎯 I might explore **`Constrained decoding`&nbsp; `Test-time adaptation`** <br>
 
-🎺 At the moment, I'm digging the music of **`Lee Morgan`** and his album **`The Procrastinator `**
+🎺 I'm still a big fan of **`The Miles Davis Quintet`** and their album **`Nefertiti`**
 
 ---
 
