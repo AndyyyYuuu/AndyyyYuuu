@@ -3,12 +3,20 @@
 
 <div align="center">
   
-  [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://github.com/AndyyyYuuu/lm-is-compressor)&nbsp;
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/AndyyyYuuu/nn-from-scratch)&nbsp;
+  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)&nbsp;
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://blue-square.itch.io/your-star)&nbsp;
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://github.com/AndyyyYuuu/neural-network-sim)&nbsp;
-  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://github.com/AndyyyYuuu/lm-is-compressor)  
-  <sup>Click on the icons to explore my projects!</sup>
+  ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=#fff)<br/>
+  ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
+  [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://github.com/AndyyyYuuu/lm-is-compressor)&nbsp;
+  [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)]()&nbsp;
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://github.com/AndyyyYuuu/lm-is-compressor)&nbsp;
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;
+  ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)&nbsp;
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)&nbsp;
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)<br>
 </div>
 
 ---
